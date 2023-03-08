@@ -1,0 +1,247 @@
+{
+  "id": "5fb60d39-0a66-4716-887f-d85ca9cb788a",
+  "version": "2.0",
+  "name": "Graph",
+  "url": "https://tcc-y3farrucxa-ue.a.run.app",
+  "tests": [{
+    "id": "ba322472-279b-43cb-bde4-121dd7480d29",
+    "name": "Graph Test",
+    "commands": [{
+      "id": "5d7e70bd-afcc-46fe-a13a-05190caea5ed",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "475acbd5-3282-4754-b69b-2b6a2de7f9bc",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1906x1034",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "fcd6091a-f373-4f8a-8d1b-cdc40542a1b7",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Graphs",
+      "targets": [
+        ["linkText=Graphs", "linkText"],
+        ["css=.navbar-nav > .nav-item:nth-child(3) > .nav-link", "css:finder"],
+        ["xpath=//a[contains(text(),'Graphs')]", "xpath:link"],
+        ["xpath=//div[@id='myNavbar']/ul/li[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/graph')]", "xpath:href"],
+        ["xpath=//li[3]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Graphs')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "55705a7d-f658-4215-987e-691b47164dac",
+      "comment": "",
+      "command": "click",
+      "target": "id=city",
+      "targets": [
+        ["id=city", "id"],
+        ["name=city", "name"],
+        ["css=#city", "css:finder"],
+        ["xpath=//select[@id='city']", "xpath:attributes"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2a0e339b-d1e1-4a6a-b70f-5d96425a6d49",
+      "comment": "",
+      "command": "select",
+      "target": "id=city",
+      "targets": [],
+      "value": "label=Greenville"
+    }, {
+      "id": "468dc328-9491-47ce-b8f0-c583e2d64f0f",
+      "comment": "",
+      "command": "click",
+      "target": "id=month",
+      "targets": [
+        ["id=month", "id"],
+        ["name=month", "name"],
+        ["css=#month", "css:finder"],
+        ["xpath=//select[@id='month']", "xpath:attributes"],
+        ["xpath=//select[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a1799703-e59d-4248-a315-4471b87f26d0",
+      "comment": "",
+      "command": "select",
+      "target": "id=month",
+      "targets": [],
+      "value": "label=January"
+    }, {
+      "id": "1ce38041-1d43-41e7-84d9-5b41aa59310e",
+      "comment": "",
+      "command": "click",
+      "target": "id=year",
+      "targets": [
+        ["id=year", "id"],
+        ["name=year", "name"],
+        ["css=#year", "css:finder"],
+        ["xpath=//select[@id='year']", "xpath:attributes"],
+        ["xpath=//select[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ea0b565f-16e0-4e7c-804a-195b6f7973ed",
+      "comment": "",
+      "command": "select",
+      "target": "id=year",
+      "targets": [],
+      "value": "label=2011"
+    }, {
+      "id": "f8afca16-25a5-4d4b-97f3-aedacec7da0a",
+      "comment": "",
+      "command": "click",
+      "target": "id=length",
+      "targets": [
+        ["id=length", "id"],
+        ["name=length", "name"],
+        ["css=#length", "css:finder"],
+        ["xpath=//select[@id='length']", "xpath:attributes"],
+        ["xpath=//select[4]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6ec968f3-df26-4e51-9347-140eb434d25b",
+      "comment": "",
+      "command": "select",
+      "target": "id=length",
+      "targets": [],
+      "value": "label=1 month"
+    }, {
+      "id": "db889451-dbef-48e2-9fa8-c12efbd70dad",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-primary",
+      "targets": [
+        ["css=.btn-primary", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Create Graphs')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "eb690fa1-a9b4-4b11-87fe-fad0b9c9939b",
+      "comment": "",
+      "command": "click",
+      "target": "id=city",
+      "targets": [
+        ["id=city", "id"],
+        ["name=city", "name"],
+        ["css=#city", "css:finder"],
+        ["xpath=//select[@id='city']", "xpath:attributes"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c54bf8ec-71bf-496f-8231-b90c0cc8a8ff",
+      "comment": "",
+      "command": "select",
+      "target": "id=city",
+      "targets": [],
+      "value": "label=Raleigh"
+    }, {
+      "id": "883523c5-1267-4b79-bc74-94ced937b5b1",
+      "comment": "",
+      "command": "click",
+      "target": "id=month",
+      "targets": [
+        ["id=month", "id"],
+        ["name=month", "name"],
+        ["css=#month", "css:finder"],
+        ["xpath=//select[@id='month']", "xpath:attributes"],
+        ["xpath=//select[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "576bf332-65f3-469a-9224-f4e35e4c2cab",
+      "comment": "",
+      "command": "select",
+      "target": "id=month",
+      "targets": [],
+      "value": "label=January"
+    }, {
+      "id": "a859e844-0c24-40ea-adaa-43b6fe229055",
+      "comment": "",
+      "command": "click",
+      "target": "id=year",
+      "targets": [
+        ["id=year", "id"],
+        ["name=year", "name"],
+        ["css=#year", "css:finder"],
+        ["xpath=//select[@id='year']", "xpath:attributes"],
+        ["xpath=//select[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "aed24942-f70c-491a-92d9-d137296a688b",
+      "comment": "",
+      "command": "select",
+      "target": "id=year",
+      "targets": [],
+      "value": "label=2011"
+    }, {
+      "id": "2e9eb361-64f6-4cd7-957c-0f187c408e6d",
+      "comment": "",
+      "command": "click",
+      "target": "id=length",
+      "targets": [
+        ["id=length", "id"],
+        ["name=length", "name"],
+        ["css=#length", "css:finder"],
+        ["xpath=//select[@id='length']", "xpath:attributes"],
+        ["xpath=//select[4]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "70227949-e6b7-4ee8-8cdb-d97520b31e92",
+      "comment": "",
+      "command": "select",
+      "target": "id=length",
+      "targets": [],
+      "value": "label=1 month"
+    }, {
+      "id": "419f2770-e750-48c7-a58f-2bee50d976d5",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-primary",
+      "targets": [
+        ["css=.btn-primary", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Create Graphs')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b519b4df-67f3-463d-896e-04d95af011c7",
+      "comment": "",
+      "command": "click",
+      "target": "id=city",
+      "targets": [
+        ["id=city", "id"],
+        ["name=city", "name"],
+        ["css=#city", "css:finder"],
+        ["xpath=//select[@id='city']", "xpath:attributes"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "3ba49604-621f-4a51-bd37-aad14773fd7b",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["ba322472-279b-43cb-bde4-121dd7480d29"]
+  }],
+  "urls": ["https://tcc-y3farrucxa-ue.a.run.app/"],
+  "plugins": []
+}

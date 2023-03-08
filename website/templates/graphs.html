@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="d-flex justify-content-center align-items-center" style="height:100px;">
+  <div class="btn-group">
+    <a href="{% url 'graph' %}" class="btn btn-primary active" aria-current="page">By Year</a>
+    <a href="{% url 'graphYears' %}" class="btn btn-primary">Year to Year</a>
+  </div>
+</div>
+<div class="input-group w-10 m-3">
+  <form method="post">
+    {% csrf_token %}
+    <select class="custom-select" id="city" name="city">
+      <option selected>City</option>
+      <option value="Greenville">Greenville</option>
+      <option value="Raleigh">Raleigh</option>
+      <option value="Morrisville">Morrisville</option>
+    </select>
+    <select class="custom-select" id="year" name="year">
+      <option selected>Year</option>
+      <option value="2021">2021</option>
+      <option value="2020">2020</option>
+      <option value="2019">2019</option>
+      <option value="2018">2018</option>
+      <option value="2017">2017</option>
+      <option value="2016">2016</option>
+      <option value="2015">2015</option>
+      <option value="2014">2014</option>
+      <option value="2013">2013</option>
+      <option value="2012">2012</option>
+      <option value="2011">2011</option>
+    </select>
+
+    <button type="submit" class="btn btn-primary">Create Graphs</button>
+  </form>
+</div>
+<div style="width:1000;height:100">
+  {{ graph|safe }}
+</div>
+<div style="width:1000;height:100">
+  {{ graph2|safe }}
+</div>
+<div style="width:1000;height:100">
+  {{ graph3|safe }}
+</div>
+
+{% endblock %}
+

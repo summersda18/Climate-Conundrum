@@ -1,0 +1,48 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container py-5">
+ <h2>Research</h2>
+ <p>
+  <a href="{% url 'upload_research' %}" class="btn btn-success"> Upload research </a>
+ </p>
+ <table class="table">
+  <thead>
+   <tr>
+    <th style="border: none !important;">Cover</th>
+    <th style="border: none !important;">Title</th>
+    <th style="border: none !important;">Author</th>
+    <th style="border: none !important;">Download</th>
+    <th style="border: none !important;">Delete</th>
+   </tr>
+  </thead>
+  <tbody>
+   {% for research in research %}
+   <tr>
+    <td>
+     {% if research.cover %}
+      <img src="{{ research.cover.url }}" alt="{{ research.title }}" style="width: 100px">
+      {% else %}
+       <span class="text-muted">No cover</span>
+      {% endif %}
+    </td>
+    <td>{{ research.title }}</td>
+    <td>{{ research.author }}</td>
+    <td>
+     <a href="{{ research.file.url }}" class="btn btn-success btn-sm" target="_blank">
+      Dowload File
+     </a>
+    </td>
+    <td>
+      <form method="post" action= "{% url 'delete_research' research.pk %}">
+        {% csrf_token %}
+        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+      </form>
+      <a href="" ></a>
+    </td>
+   </tr>
+   {% endfor %}
+  </tbody>
+ </table>
+</div>
+{% endblock %}

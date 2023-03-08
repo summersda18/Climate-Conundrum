@@ -1,0 +1,319 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <!--Hero Section-->
+    <section id="hero" class="d-flex justify-content-center align-items-center">
+        <div id="heroCarousel" class="container carousel carousel-fade" data-ride="carousel" data-interval="10000">
+            <!--Slide-1-->
+            <div class="carousel-item active">
+                <div class="carousel-container">
+                    <h2 class="animate__animated animate__backInDown">
+                        <span>Triva</span>
+                    </h2>
+                    <p class="animate__animated animate__fadeInUp">
+                        More than 1 million species are at risk of extinction by climate change.<br><br>
+                        "Scientists estimate dozens of species of plants and animals currently go exinct each day. 
+                        By mid-century, as many as 30 to 50 percent of the total species found on Earth will have disappeared."
+                    </p>
+                </div>
+            </div>
+            <!--End of Slide-1-->
+            <!--Slide-1-->
+            <div class="carousel-item">
+                <div class="carousel-container">
+                    <h2 class="animate__animated animate__backInDown">
+                        Triva
+                    </h2>
+                    <p class="animate__animated animate__fadeInUp">
+                        Climate change is already happening, and it’s detrimental to human life<br><br>
+                        "Rising temperatures — coupled with a growing number of people in cities and an increasing population of elderly
+                         — have increased heat-related deaths, according to a 2018 study in The Lancet."
+                    </p>
+                </div>
+            </div>
+            <!--End of Slide-1-->
+            <!--Slide-1-->
+            <div class="carousel-item">
+                <div class="carousel-container">
+                    <h2 class="animate__animated animate__backInDown">
+                        Triva
+                    </h2>
+                    <p class="animate__animated animate__fadeInUp">
+                        Rainforests signal a worsening of the climate crisis<br><br>
+                        "A decades-long study released in July 2021 shows that parts of the Amazon rainforest are releasing more carbon dioxide 
+                        than they absorb. The study results suggest that deforestation and fire, among other factors, have dramatically undercut
+                         the Amazon’s ability to absorb heat-trapping carbon emissions from the atmosphere."
+                    </p>
+                </div>
+            </div>
+            <!--End of Slide-1-->
+            <a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon fas fa-chevron-left" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+
+            </a>
+            <a class="carousel-control-next" href="#heroCarousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon fas fa-chevron-right" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+
+            </a>
+
+        </div>
+    </section>
+
+    <!--end of hero Section-->
+
+    <!--About us-->
+    <section class="mt-5">
+        <div class="container">
+            <div class="row justify-content-center mb-5">
+                <div class="col-md-8 text-center heading-section">
+                    <span>About Us</span>
+                    <h2 class="mb-3">Our Mission | Vision & Plans</h2>
+                </div>
+            </div>
+            <!------>
+            <div class="row mt-4">
+                <div class="col-md-4 tabs">
+                    <ul class="nav nav-pills nav-fill d-md-flex d-block flex-column">
+                        <li class="nav-item text-left">
+                            <a class="nav-link active py-4" data-toggle="tab" href="#about-1">About Us</a>
+                        </li>
+                        <li class="nav-item text-left">
+                            <a class="nav-link py-4" data-toggle="tab" href="#about-2">Dangers of Climate Change</a>
+                        </li>
+                        <li class="nav-item text-left">
+                            <a class="nav-link py-4" data-toggle="tab" href="#about-3">Our Mission</a>
+                        </li>
+                        </li>
+                        <li class="nav-item text-left">
+                            <a class="nav-link py-4" data-toggle="tab" href="#about-4">Our Plans</a>
+                        </li>
+                    </ul>
+                </div>
+                <!----->
+                <div class="col-md-8">
+                    <div class="tab-content">
+                        <div class="tab-pane container p-0 active" id="about-1">
+                            <h3>About Us</h3>
+                            <p>We are a group of four avid environmentalists that are trying to make a lasting impact in our environment. This is our Team:<br><br>
+                                Ed the website designer<br>
+                                Lyle the senior wildlife expert and graphic designer<br>
+                                Robert the environmentalist website builder<br>
+                                Seymone the weather data gather and analyzer<br> 
+                                James the Database Administrator<br> 
+                                </p>
+                        </div>
+                        <!----->
+                        <div class="tab-pane container p-0" id="about-2">
+                            <h3>Dangers of Climate Change</h3>
+                            <p>The impacts of climate change on different sectors of society are interrelated. Drought can harm food production and human health. 
+                                Flooding can lead to disease spread and damages to ecosystems and infrastructure. 
+                                Human health issues can increase mortality, impact food availability, and limit worker productivity. Climate change impacts are seen 
+                                throughout every aspect of the world we live in. That's why we created this website so that researchers and the general public 
+                                could see the changes that are happening in our environment.</p>
+                        </div>
+                        <!----->
+                        <div class="tab-pane container p-0" id="about-3">
+                            <h3>Our Mission</h3>
+                            <p>Our mission is to create a world where we don't have to worry about the negative effects of climate change affecting our life. To help us 
+                                implement this change in lifestyle we create this website. This website could help researchers and normal people become more aware of their 
+                                environment and give them the tools to change the world.  </p>
+                        </div>
+                        <!----->
+                        <div class="tab-pane container p-0" id="about-4">
+                            <h3>Our Plans</h3>
+                            <p>This website will display changes in temperature within a 10-year span. It will also show 
+                                the changes in precipitation within those years span. Researchers will be able to input data 
+                                to further expand the data. This will help increase the range and accuracy of the data. The website 
+                                will also allow user to select what year they want to see.  Lastly, the website will provide helpful 
+                                feedback on how you can make a change in your lifestyle to further improve the environment. </p>
+                        </div>
+                        <!----->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--End About us-->
+    <!---Stories Section-->
+    <section class="mt-3">
+        <div class="stories">
+            <div class="container">
+                <div class="section-title text-center">
+                    <h3>Stories</h3>
+                    <p>These are some stories on how climate change is affecting our daily life.</p>
+                </div>
+                <!----->
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="story-box overlay shadow">
+                            <div class="story-icon">
+                                <i class="fas fa-ambulance"></i>
+                            </div>
+                            <h2>Health</h2>
+                            <p>Climate change is a critical public health problem. According to the U.S. National Institute of 
+                                Environmental Health Sciences, climate change makes many existing diseases and conditions worse,
+                                and it helps pests and pathogens spread into new regions. The most vulnerable people—children, the 
+                                elderly, the poor, and those with health conditions—are at increased risk for climate-related health effects..</p>
+                        </div>
+                    </div>
+                    <!----->
+                    <div class="col-md-4">
+                        <div class="story-box overlay shadow">
+                            <div class="story-icon">
+                                <i class="fas fa-hand-holding-water"></i>
+                            </div>
+                            <h2>Clean Water</h2>
+                            <p>Climate change is affecting water access for many people around the world, causing more severe droughts and floods. 
+                                Increasing global temperatures are one of the main contributors to this problem. Climate change impacts the water 
+                                cycle by influencing when, where, and how much precipitation falls. It also leads to more severe weather events over time. 
+                                Increasing global temperatures causes water to evaporate in larger amounts, which will lead to higher levels of atmospheric 
+                                water vapor and more frequent, heavy, and intense rains in the coming years.</p>
+                        </div>
+                    </div>
+                    <!----->
+                    <div class="col-md-4">
+                        <div class="story-box overlay shadow">
+                            <div class="story-icon">
+                                <i class="fas fa-seedling"></i>
+                            </div>
+                            <h2>Plants</h2>
+                            <p>Plants play an essential role in the functioning of life on Earth. Unfortunately, the changing climate increases stressors that 
+                                weaken plant resilience, disrupting forest structure and ecosystem services. Rising temperatures lead to more frequent droughts, 
+                                wildfires, and invasive pest outbreaks, leading to the loss of a plant species. </p>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="section-title">
+                            <h2 class="text-center">Our Team</h2>
+                        </div>
+                    <!----->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team Section-->
+    <section class="team">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-3 mt-3">
+                    <div class="team-1">
+                        <div class="team-info">
+                            <h4>Ed Mouko</h4>
+                            <span>Front End</span>
+                            <div class="social">
+                                <a href="">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-facebook"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!---->
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-3 mt-3">
+                    <div class="team-1">
+                        <div class="team-info">
+                            <h4>Seymone</h4>
+                            <span>Web Scraping</span>
+                            <div class="social">
+                                <a href="">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-facebook"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!---->
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-3 mt-3">
+                    <div class="team-1">
+                        <div class="team-info">
+                            <h4>Lyle</h4>
+                            <span>Back End</span>
+                            <div class="social">
+                                <a href="">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-facebook"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!---->
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-3 mt-3">
+                    <div class="team-1">
+                        <div class="team-info">
+                            <h4>James</h4>
+                            <span>Testing</span>
+                            <div class="social">
+                                <a href="">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-facebook"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!---->
+                <div class="col-xl-3 col-lg-4 col-md-6 mb-3 mt-3">
+                    <div class="team-1">
+                        <div class="team-info">
+                            <h4>Robert</h4>
+                            <span>DevOps End</span>
+                            <div class="social">
+                                <a href="">
+                                    <i class="fab fa-twitter"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-facebook"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-instagram"></i>
+                                </a>
+                                <a href="">
+                                    <i class="fab fa-linkedin"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!---End of Team Section-->
+{% endblock %}

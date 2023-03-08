@@ -1,0 +1,3170 @@
+[
+  {
+    "model": "website.dateandlocation",
+    "pk": 6,
+    "fields": {
+      "date": "2011-01-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 6,
+    "fields": {
+      "maxTemp": "69",
+      "minTemp": "17",
+      "avgTemp": "37.49",
+      "avgWindSpeed": "4.71",
+      "avgPrecipitation": "0.00",
+
+      "date": 6
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 7,
+    "fields": {
+      "date": "2011-02-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 7,
+    "fields": {
+      "maxTemp": "81",
+      "minTemp": "0",
+      "avgTemp": "47.81",
+      "avgWindSpeed": "7.12",
+      "avgPrecipitation": "0.00",
+
+      "date": 7
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 8,
+    "fields": {
+      "date": "2011-03-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 8,
+    "fields": {
+      "maxTemp": "84",
+      "minTemp": "28",
+      "avgTemp": "51.61",
+      "avgWindSpeed": "6.96",
+      "avgPrecipitation": "0.00",
+
+      "date": 8
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 9,
+    "fields": {
+      "date": "2011-04-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 9,
+    "fields": {
+      "maxTemp": "87",
+      "minTemp": "33",
+      "avgTemp": "63.69",
+      "avgWindSpeed": "8.82",
+      "avgPrecipitation": "0.00",
+
+      "date": 9
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 10,
+    "fields": {
+      "date": "2011-05-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 10,
+    "fields": {
+      "maxTemp": "94",
+      "minTemp": "42",
+      "avgTemp": "69.43",
+      "avgWindSpeed": "5.05",
+      "avgPrecipitation": "0.00",
+
+      "date": 10
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 11,
+    "fields": {
+      "date": "2011-06-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 11,
+    "fields": {
+      "maxTemp": "98",
+      "minTemp": "57",
+      "avgTemp": "79.55",
+      "avgWindSpeed": "5.89",
+      "avgPrecipitation": "0.00",
+
+      "date": 11
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 12,
+    "fields": {
+      "date": "2011-07-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 12,
+    "fields": {
+      "maxTemp": "103",
+      "minTemp": "62",
+      "avgTemp": "82.59",
+      "avgWindSpeed": "5.65",
+      "avgPrecipitation": "0.00",
+
+      "date": 12
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 13,
+    "fields": {
+      "date": "2011-08-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 13,
+    "fields": {
+      "maxTemp": "98",
+      "minTemp": "62",
+      "avgTemp": "79.17",
+      "avgWindSpeed": "5.45",
+      "avgPrecipitation": "0.00",
+
+      "date": 13
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 14,
+    "fields": {
+      "date": "2011-09-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 14,
+    "fields": {
+      "maxTemp": "89",
+      "minTemp": "55",
+      "avgTemp": "72.78",
+      "avgWindSpeed": "4.56",
+      "avgPrecipitation": "0.00",
+
+      "date": 14
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 15,
+    "fields": {
+      "date": "2011-10-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 15,
+    "fields": {
+      "maxTemp": "84",
+      "minTemp": "32",
+      "avgTemp": "58.64",
+      "avgWindSpeed": "5.63",
+      "avgPrecipitation": "0.00",
+
+      "date": 15
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 16,
+    "fields": {
+      "date": "2011-11-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 16,
+    "fields": {
+      "maxTemp": "78",
+      "minTemp": "27",
+      "avgTemp": "54.05",
+      "avgWindSpeed": "5.97",
+      "avgPrecipitation": "0.00",
+
+      "date": 16
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 17,
+    "fields": {
+      "date": "2011-12-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 17,
+    "fields": {
+      "maxTemp": "71",
+      "minTemp": "27",
+      "avgTemp": "48.64",
+      "avgWindSpeed": "5.27",
+      "avgPrecipitation": "0.00",
+
+      "date": 17
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 18,
+    "fields": {
+      "date": "2012-01-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 18,
+    "fields": {
+      "maxTemp": "71",
+      "minTemp": "19",
+      "avgTemp": "45.74",
+      "avgWindSpeed": "6.66",
+      "avgPrecipitation": "0.00",
+
+      "date": 18
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 19,
+    "fields": {
+      "date": "2012-02-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 19,
+    "fields": {
+      "maxTemp": "76",
+      "minTemp": "21",
+      "avgTemp": "47.17",
+      "avgWindSpeed": "5.78",
+      "avgPrecipitation": "0.00",
+
+      "date": 19
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 20,
+    "fields": {
+      "date": "2012-03-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 20,
+    "fields": {
+      "maxTemp": "83",
+      "minTemp": "27",
+      "avgTemp": "60.45",
+      "avgWindSpeed": "5.89",
+      "avgPrecipitation": "0.00",
+
+      "date": 20
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 21,
+    "fields": {
+      "date": "2012-04-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 21,
+    "fields": {
+      "maxTemp": "85",
+      "minTemp": "33",
+      "avgTemp": "60.23",
+      "avgWindSpeed": "6.3",
+      "avgPrecipitation": "0.00",
+
+      "date": 21
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 22,
+    "fields": {
+      "date": "2012-05-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 22,
+    "fields": {
+      "maxTemp": "91",
+      "minTemp": "48",
+      "avgTemp": "71.03",
+      "avgWindSpeed": "5.34",
+      "avgPrecipitation": "0.00",
+
+      "date": 22
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 23,
+    "fields": {
+      "date": "2012-06-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 23,
+    "fields": {
+      "maxTemp": "105",
+      "minTemp": "53",
+      "avgTemp": "74.58",
+      "avgWindSpeed": "5.45",
+      "avgPrecipitation": "0.00",
+
+      "date": 23
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 24,
+    "fields": {
+      "date": "2012-07-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 24,
+    "fields": {
+      "maxTemp": "105",
+      "minTemp": "68",
+      "avgTemp": "81.81",
+      "avgWindSpeed": "5.43",
+      "avgPrecipitation": "0.00",
+
+      "date": 24
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 25,
+    "fields": {
+      "date": "2012-08-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 25,
+    "fields": {
+      "maxTemp": "93",
+      "minTemp": "63",
+      "avgTemp": "76.82",
+      "avgWindSpeed": "4.7",
+      "avgPrecipitation": "0.00",
+
+      "date": 25
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 26,
+    "fields": {
+      "date": "2012-09-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 26,
+    "fields": {
+      "maxTemp": "91",
+      "minTemp": "50",
+      "avgTemp": "70.19",
+      "avgWindSpeed": "4.23",
+      "avgPrecipitation": "0.00",
+
+      "date": 26
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 27,
+    "fields": {
+      "date": "2012-10-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 27,
+    "fields": {
+      "maxTemp": "87",
+      "minTemp": "38",
+      "avgTemp": "60.3",
+      "avgWindSpeed": "5.07",
+      "avgPrecipitation": "0.00",
+
+      "date": 27
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 28,
+    "fields": {
+      "date": "2012-11-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 28,
+    "fields": {
+      "maxTemp": "74",
+      "minTemp": "24",
+      "avgTemp": "46.96",
+      "avgWindSpeed": "4.69",
+      "avgPrecipitation": "0.00",
+
+      "date": 28
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 29,
+    "fields": {
+      "date": "2012-12-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 29,
+    "fields": {
+      "maxTemp": "75",
+      "minTemp": "25",
+      "avgTemp": "48.96",
+      "avgWindSpeed": "5.97",
+      "avgPrecipitation": "0.00",
+
+      "date": 29
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 30,
+    "fields": {
+      "date": "2013-01-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 30,
+    "fields": {
+      "maxTemp": "74",
+      "minTemp": "19",
+      "avgTemp": "44.02",
+      "avgWindSpeed": "5.06",
+      "avgPrecipitation": "0.00",
+
+      "date": 30
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 31,
+    "fields": {
+      "date": "2013-02-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 31,
+    "fields": {
+      "maxTemp": "63",
+      "minTemp": "20",
+      "avgTemp": "42.2",
+      "avgWindSpeed": "5.76",
+      "avgPrecipitation": "0.00",
+
+      "date": 31
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 32,
+    "fields": {
+      "date": "2013-03-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 32,
+    "fields": {
+      "maxTemp": "77",
+      "minTemp": "23",
+      "avgTemp": "45.18",
+      "avgWindSpeed": "6.06",
+      "avgPrecipitation": "0.00",
+
+      "date": 32
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 33,
+    "fields": {
+      "date": "2013-04-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 33,
+    "fields": {
+      "maxTemp": "85",
+      "minTemp": "36",
+      "avgTemp": "60.34",
+      "avgWindSpeed": "6.94",
+      "avgPrecipitation": "0.00",
+
+      "date": 33
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 34,
+    "fields": {
+      "date": "2013-05-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 34,
+    "fields": {
+      "maxTemp": "86",
+      "minTemp": "40",
+      "avgTemp": "66.13",
+      "avgWindSpeed": "6.62",
+      "avgPrecipitation": "0.00",
+
+      "date": 34
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 35,
+    "fields": {
+      "date": "2013-06-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 35,
+    "fields": {
+      "maxTemp": "93",
+      "minTemp": "55",
+      "avgTemp": "74.51",
+      "avgWindSpeed": "7.16",
+      "avgPrecipitation": "0.00",
+
+      "date": 35
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 36,
+    "fields": {
+      "date": "2013-07-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 36,
+    "fields": {
+      "maxTemp": "93",
+      "minTemp": "62",
+      "avgTemp": "77.84",
+      "avgWindSpeed": "5.71",
+      "avgPrecipitation": "0.00",
+
+      "date": 36
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 37,
+    "fields": {
+      "date": "2013-08-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 37,
+    "fields": {
+      "maxTemp": "93",
+      "minTemp": "55",
+      "avgTemp": "74.94",
+      "avgWindSpeed": "4.66",
+      "avgPrecipitation": "0.00",
+
+      "date": 37
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 38,
+    "fields": {
+      "date": "2013-09-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 38,
+    "fields": {
+      "maxTemp": "90",
+      "minTemp": "51",
+      "avgTemp": "69.83",
+      "avgWindSpeed": "4.2",
+      "avgPrecipitation": "0.00",
+
+      "date": 38
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 39,
+    "fields": {
+      "date": "2013-10-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 39,
+    "fields": {
+      "maxTemp": "88",
+      "minTemp": "29",
+      "avgTemp": "61.51",
+      "avgWindSpeed": "4.36",
+      "avgPrecipitation": "0.00",
+
+      "date": 39
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 40,
+    "fields": {
+      "date": "2013-11-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 40,
+    "fields": {
+      "maxTemp": "75",
+      "minTemp": "19",
+      "avgTemp": "48.14",
+      "avgWindSpeed": "4.88",
+      "avgPrecipitation": "0.00",
+
+      "date": 40
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 41,
+    "fields": {
+      "date": "2013-12-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 41,
+    "fields": {
+      "maxTemp": "79",
+      "minTemp": "24",
+      "avgTemp": "45.99",
+      "avgWindSpeed": "5.03",
+      "avgPrecipitation": "0.00",
+
+      "date": 41
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 42,
+    "fields": {
+      "date": "2014-01-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 42,
+    "fields": {
+      "maxTemp": "69",
+      "minTemp": "7",
+      "avgTemp": "36.56",
+      "avgWindSpeed": "6.13",
+      "avgPrecipitation": "0.00",
+
+      "date": 42
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 43,
+    "fields": {
+      "date": "2014-02-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 43,
+    "fields": {
+      "maxTemp": "72",
+      "minTemp": "23",
+      "avgTemp": "42.74",
+      "avgWindSpeed": "6.06",
+      "avgPrecipitation": "0.00",
+
+      "date": 43
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 44,
+    "fields": {
+      "date": "2014-03-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 44,
+    "fields": {
+      "maxTemp": "78",
+      "minTemp": "16",
+      "avgTemp": "45.78",
+      "avgWindSpeed": "7.21",
+      "avgPrecipitation": "0.07",
+
+      "date": 44
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 45,
+    "fields": {
+      "date": "2014-04-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 45,
+    "fields": {
+      "maxTemp": "86",
+      "minTemp": "32",
+      "avgTemp": "60.58",
+      "avgWindSpeed": "7.53",
+      "avgPrecipitation": "0.14",
+
+      "date": 45
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 46,
+    "fields": {
+      "date": "2014-05-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 46,
+    "fields": {
+      "maxTemp": "92",
+      "minTemp": "45",
+      "avgTemp": "69.71",
+      "avgWindSpeed": "5.73",
+      "avgPrecipitation": "0.17",
+
+      "date": 46
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 47,
+    "fields": {
+      "date": "2014-06-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 47,
+    "fields": {
+      "maxTemp": "96",
+      "minTemp": "52",
+      "avgTemp": "76.36",
+      "avgWindSpeed": "5.05",
+      "avgPrecipitation": "0.11",
+
+      "date": 47
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 48,
+    "fields": {
+      "date": "2014-07-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 48,
+    "fields": {
+      "maxTemp": "98",
+      "minTemp": "61",
+      "avgTemp": "77.2",
+      "avgWindSpeed": "5.57",
+      "avgPrecipitation": "0.29",
+
+      "date": 48
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 49,
+    "fields": {
+      "date": "2014-08-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 49,
+    "fields": {
+      "maxTemp": "91",
+      "minTemp": "58",
+      "avgTemp": "74.72",
+      "avgWindSpeed": "4.16",
+      "avgPrecipitation": "0.15",
+
+      "date": 49
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 50,
+    "fields": {
+      "date": "2014-09-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 50,
+    "fields": {
+      "maxTemp": "95",
+      "minTemp": "55",
+      "avgTemp": "71.09",
+      "avgWindSpeed": "5.14",
+      "avgPrecipitation": "0.20",
+
+      "date": 50
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 51,
+    "fields": {
+      "date": "2014-10-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 51,
+    "fields": {
+      "maxTemp": "86",
+      "minTemp": "0",
+      "avgTemp": "62.34",
+      "avgWindSpeed": "4.99",
+      "avgPrecipitation": "0.07",
+
+      "date": 51
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 52,
+    "fields": {
+      "date": "2014-11-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 52,
+    "fields": {
+      "maxTemp": "76",
+      "minTemp": "20",
+      "avgTemp": "46.88",
+      "avgWindSpeed": "5.36",
+      "avgPrecipitation": "0.13",
+
+      "date": 52
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 53,
+    "fields": {
+      "date": "2014-12-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 53,
+    "fields": {
+      "maxTemp": "73",
+      "minTemp": "26",
+      "avgTemp": "44.68",
+      "avgWindSpeed": "4.48",
+      "avgPrecipitation": "0.16",
+
+      "date": 53
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 54,
+    "fields": {
+      "date": "2015-01-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 54,
+    "fields": {
+      "maxTemp": "67",
+      "minTemp": "11",
+      "avgTemp": "39.71",
+      "avgWindSpeed": "4.9",
+      "avgPrecipitation": "0.11",
+
+      "date": 54
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 55,
+    "fields": {
+      "date": "2015-02-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 55,
+    "fields": {
+      "maxTemp": "71",
+      "minTemp": "7",
+      "avgTemp": "34.83",
+      "avgWindSpeed": "6.67",
+      "avgPrecipitation": "0.10",
+
+      "date": 55
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 56,
+    "fields": {
+      "date": "2015-03-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 56,
+    "fields": {
+      "maxTemp": "81",
+      "minTemp": "21",
+      "avgTemp": "50.72",
+      "avgWindSpeed": "6.29",
+      "avgPrecipitation": "0.11",
+
+      "date": 56
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 57,
+    "fields": {
+      "date": "2015-04-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 57,
+    "fields": {
+      "maxTemp": "84",
+      "minTemp": "35",
+      "avgTemp": "61.56",
+      "avgWindSpeed": "6.51",
+      "avgPrecipitation": "0.14",
+
+      "date": 57
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 58,
+    "fields": {
+      "date": "2015-05-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 58,
+    "fields": {
+      "maxTemp": "90",
+      "minTemp": "46",
+      "avgTemp": "70.62",
+      "avgWindSpeed": "5.95",
+      "avgPrecipitation": "0.13",
+
+      "date": 58
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 59,
+    "fields": {
+      "date": "2015-06-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 59,
+    "fields": {
+      "maxTemp": "99",
+      "minTemp": "60",
+      "avgTemp": "78.42",
+      "avgWindSpeed": "5.94",
+      "avgPrecipitation": "0.21",
+
+      "date": 59
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 60,
+    "fields": {
+      "date": "2015-07-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 60,
+    "fields": {
+      "maxTemp": "94",
+      "minTemp": "64",
+      "avgTemp": "79.22",
+      "avgWindSpeed": "5.41",
+      "avgPrecipitation": "0.15",
+
+      "date": 60
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 61,
+    "fields": {
+      "date": "2015-08-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 61,
+    "fields": {
+      "maxTemp": "97",
+      "minTemp": "60",
+      "avgTemp": "77.08",
+      "avgWindSpeed": "4.27",
+      "avgPrecipitation": "0.15",
+
+      "date": 61
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 62,
+    "fields": {
+      "date": "2015-09-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 62,
+    "fields": {
+      "maxTemp": "92",
+      "minTemp": "49",
+      "avgTemp": "72.27",
+      "avgWindSpeed": "5.24",
+      "avgPrecipitation": "0.17",
+
+      "date": 62
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 63,
+    "fields": {
+      "date": "2015-10-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 63,
+    "fields": {
+      "maxTemp": "83",
+      "minTemp": "32",
+      "avgTemp": "59.64",
+      "avgWindSpeed": "5.96",
+      "avgPrecipitation": "0.16",
+
+      "date": 63
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 64,
+    "fields": {
+      "date": "2015-11-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 64,
+    "fields": {
+      "maxTemp": "76",
+      "minTemp": "28",
+      "avgTemp": "55.06",
+      "avgWindSpeed": "3.98",
+      "avgPrecipitation": "0.23",
+
+      "date": 64
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 65,
+    "fields": {
+      "date": "2015-12-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 65,
+    "fields": {
+      "maxTemp": "76",
+      "minTemp": "26",
+      "avgTemp": "55.48",
+      "avgWindSpeed": "4.9",
+      "avgPrecipitation": "0.19",
+
+      "date": 65
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 66,
+    "fields": {
+      "date": "2016-01-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 66,
+    "fields": {
+      "maxTemp": "69",
+      "minTemp": "18",
+      "avgTemp": "39.1",
+      "avgWindSpeed": "5.51",
+      "avgPrecipitation": "0.07",
+
+      "date": 66
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 67,
+    "fields": {
+      "date": "2016-02-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 67,
+    "fields": {
+      "maxTemp": "73",
+      "minTemp": "15",
+      "avgTemp": "44.01",
+      "avgWindSpeed": "7.04",
+      "avgPrecipitation": "0.16",
+
+      "date": 67
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 68,
+    "fields": {
+      "date": "2016-03-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 68,
+    "fields": {
+      "maxTemp": "85",
+      "minTemp": "29",
+      "avgTemp": "58.11",
+      "avgWindSpeed": "7.33",
+      "avgPrecipitation": "0.13",
+
+      "date": 68
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 69,
+    "fields": {
+      "date": "2016-04-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 69,
+    "fields": {
+      "maxTemp": "88",
+      "minTemp": "30",
+      "avgTemp": "60.4",
+      "avgWindSpeed": "8.04",
+      "avgPrecipitation": "0.10",
+
+      "date": 69
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 70,
+    "fields": {
+      "date": "2016-05-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 70,
+    "fields": {
+      "maxTemp": "88",
+      "minTemp": "43",
+      "avgTemp": "66.94",
+      "avgWindSpeed": "5.04",
+      "avgPrecipitation": "0.20",
+
+      "date": 70
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 71,
+    "fields": {
+      "date": "2016-06-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 71,
+    "fields": {
+      "maxTemp": "92",
+      "minTemp": "53",
+      "avgTemp": "75.94",
+      "avgWindSpeed": "5.43",
+      "avgPrecipitation": "0.20",
+
+      "date": 71
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 72,
+    "fields": {
+      "date": "2016-07-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 72,
+    "fields": {
+      "maxTemp": "96",
+      "minTemp": "69",
+      "avgTemp": "80.73",
+      "avgWindSpeed": "5.37",
+      "avgPrecipitation": "0.21",
+
+      "date": 72
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 73,
+    "fields": {
+      "date": "2016-08-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 73,
+    "fields": {
+      "maxTemp": "97",
+      "minTemp": "65",
+      "avgTemp": "80.81",
+      "avgWindSpeed": "5.41",
+      "avgPrecipitation": "0.10",
+
+      "date": 73
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 74,
+    "fields": {
+      "date": "2016-09-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 74,
+    "fields": {
+      "maxTemp": "94",
+      "minTemp": "59",
+      "avgTemp": "75.32",
+      "avgWindSpeed": "5.94",
+      "avgPrecipitation": "0.15",
+
+      "date": 74
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 75,
+    "fields": {
+      "date": "2016-10-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 75,
+    "fields": {
+      "maxTemp": "87",
+      "minTemp": "39",
+      "avgTemp": "63.45",
+      "avgWindSpeed": "5.53",
+      "avgPrecipitation": "0.23",
+
+      "date": 75
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 76,
+    "fields": {
+      "date": "2016-11-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 76,
+    "fields": {
+      "maxTemp": "82",
+      "minTemp": "26",
+      "avgTemp": "52.22",
+      "avgWindSpeed": "4.25",
+      "avgPrecipitation": "0.02",
+
+      "date": 76
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 77,
+    "fields": {
+      "date": "2016-12-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 77,
+    "fields": {
+      "maxTemp": "74",
+      "minTemp": "20",
+      "avgTemp": "44.65",
+      "avgWindSpeed": "5.21",
+      "avgPrecipitation": "0.07",
+
+      "date": 77
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 78,
+    "fields": {
+      "date": "2017-01-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 78,
+    "fields": {
+      "maxTemp": "75",
+      "minTemp": "9",
+      "avgTemp": "46.46",
+      "avgWindSpeed": "6.59",
+      "avgPrecipitation": "0.12",
+
+      "date": 78
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 79,
+    "fields": {
+      "date": "2017-02-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 79,
+    "fields": {
+      "maxTemp": "82",
+      "minTemp": "26",
+      "avgTemp": "53.52",
+      "avgWindSpeed": "6.3",
+      "avgPrecipitation": "0.02",
+
+      "date": 79
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 80,
+    "fields": {
+      "date": "2017-03-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 80,
+    "fields": {
+      "maxTemp": "82",
+      "minTemp": "24",
+      "avgTemp": "52.12",
+      "avgWindSpeed": "7.95",
+      "avgPrecipitation": "0.10",
+
+      "date": 80
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 81,
+    "fields": {
+      "date": "2017-04-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 81,
+    "fields": {
+      "maxTemp": "88",
+      "minTemp": "35",
+      "avgTemp": "65.94",
+      "avgWindSpeed": "8.53",
+      "avgPrecipitation": "0.29",
+
+      "date": 81
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 82,
+    "fields": {
+      "date": "2017-05-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 82,
+    "fields": {
+      "maxTemp": "90",
+      "minTemp": "44",
+      "avgTemp": "68.83",
+      "avgWindSpeed": "7.22",
+      "avgPrecipitation": "0.18",
+
+      "date": 82
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 83,
+    "fields": {
+      "date": "2017-06-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 83,
+    "fields": {
+      "maxTemp": "92",
+      "minTemp": "54",
+      "avgTemp": "74.98",
+      "avgWindSpeed": "6.21",
+      "avgPrecipitation": "0.20",
+
+      "date": 83
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 84,
+    "fields": {
+      "date": "2017-07-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 84,
+    "fields": {
+      "maxTemp": "100",
+      "minTemp": "59",
+      "avgTemp": "80.78",
+      "avgWindSpeed": "6.23",
+      "avgPrecipitation": "0.08",
+
+      "date": 84
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 85,
+    "fields": {
+      "date": "2017-08-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 85,
+    "fields": {
+      "maxTemp": "97",
+      "minTemp": "59",
+      "avgTemp": "77.71",
+      "avgWindSpeed": "5.75",
+      "avgPrecipitation": "0.16",
+
+      "date": 85
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 86,
+    "fields": {
+      "date": "2017-09-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 86,
+    "fields": {
+      "maxTemp": "91",
+      "minTemp": "51",
+      "avgTemp": "70.78",
+      "avgWindSpeed": "5.61",
+      "avgPrecipitation": "0.08",
+
+      "date": 86
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 87,
+    "fields": {
+      "date": "2017-10-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 87,
+    "fields": {
+      "maxTemp": "91",
+      "minTemp": "37",
+      "avgTemp": "63.32",
+      "avgWindSpeed": "5.52",
+      "avgPrecipitation": "0.14",
+
+      "date": 87
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 88,
+    "fields": {
+      "date": "2017-11-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 88,
+    "fields": {
+      "maxTemp": "80",
+      "minTemp": "26",
+      "avgTemp": "49.56",
+      "avgWindSpeed": "4.27",
+      "avgPrecipitation": "0.04",
+
+      "date": 88
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 89,
+    "fields": {
+      "date": "2017-12-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 89,
+    "fields": {
+      "maxTemp": "71",
+      "minTemp": "16",
+      "avgTemp": "41.83",
+      "avgWindSpeed": "5.12",
+      "avgPrecipitation": "0.07",
+
+      "date": 89
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 90,
+    "fields": {
+      "date": "2018-01-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 90,
+    "fields": {
+      "maxTemp": "71",
+      "minTemp": "4",
+      "avgTemp": "37.19",
+      "avgWindSpeed": "5.74",
+      "avgPrecipitation": "0.13",
+
+      "date": 90
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 91,
+    "fields": {
+      "date": "2018-02-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 91,
+    "fields": {
+      "maxTemp": "80",
+      "minTemp": "20",
+      "avgTemp": "51.8",
+      "avgWindSpeed": "7.39",
+      "avgPrecipitation": "0.06",
+
+      "date": 91
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 92,
+    "fields": {
+      "date": "2018-03-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 92,
+    "fields": {
+      "maxTemp": "78",
+      "minTemp": "24",
+      "avgTemp": "45.87",
+      "avgWindSpeed": "7.36",
+      "avgPrecipitation": "0.16",
+
+      "date": 92
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 93,
+    "fields": {
+      "date": "2018-04-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 93,
+    "fields": {
+      "maxTemp": "81",
+      "minTemp": "32",
+      "avgTemp": "57.65",
+      "avgWindSpeed": "8.29",
+      "avgPrecipitation": "0.18",
+
+      "date": 93
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 94,
+    "fields": {
+      "date": "2018-05-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 94,
+    "fields": {
+      "maxTemp": "92",
+      "minTemp": "47",
+      "avgTemp": "72.84",
+      "avgWindSpeed": "7.29",
+      "avgPrecipitation": "0.17",
+
+      "date": 94
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 95,
+    "fields": {
+      "date": "2018-06-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 95,
+    "fields": {
+      "maxTemp": "95",
+      "minTemp": "58",
+      "avgTemp": "77.87",
+      "avgWindSpeed": "5.24",
+      "avgPrecipitation": "0.07",
+
+      "date": 95
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 96,
+    "fields": {
+      "date": "2018-07-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 96,
+    "fields": {
+      "maxTemp": "97",
+      "minTemp": "58",
+      "avgTemp": "78.17",
+      "avgWindSpeed": "5.98",
+      "avgPrecipitation": "0.15",
+
+      "date": 96
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 97,
+    "fields": {
+      "date": "2018-08-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 97,
+    "fields": {
+      "maxTemp": "94",
+      "minTemp": "55",
+      "avgTemp": "77.73",
+      "avgWindSpeed": "5.36",
+      "avgPrecipitation": "0.22",
+
+      "date": 97
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 98,
+    "fields": {
+      "date": "2018-09-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 98,
+    "fields": {
+      "maxTemp": "92",
+      "minTemp": "61",
+      "avgTemp": "75.7",
+      "avgWindSpeed": "5.87",
+      "avgPrecipitation": "0.27",
+
+      "date": 98
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 99,
+    "fields": {
+      "date": "2018-10-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 99,
+    "fields": {
+      "maxTemp": "89",
+      "minTemp": "34",
+      "avgTemp": "61.69",
+      "avgWindSpeed": "4.92",
+      "avgPrecipitation": "0.15",
+
+      "date": 99
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 100,
+    "fields": {
+      "date": "2018-11-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 100,
+    "fields": {
+      "maxTemp": "74",
+      "minTemp": "26",
+      "avgTemp": "48.14",
+      "avgWindSpeed": "5.91",
+      "avgPrecipitation": "0.24",
+
+      "date": 100
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 101,
+    "fields": {
+      "date": "2018-12-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 101,
+    "fields": {
+      "maxTemp": "70",
+      "minTemp": "25",
+      "avgTemp": "45.43",
+      "avgWindSpeed": "5.52",
+      "avgPrecipitation": "0.20",
+
+      "date": 101
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 102,
+    "fields": {
+      "date": "2019-01-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 102,
+    "fields": {
+      "maxTemp": "70",
+      "minTemp": "17",
+      "avgTemp": "42.19",
+      "avgWindSpeed": "6.09",
+      "avgPrecipitation": "0.10",
+
+      "date": 102
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 103,
+    "fields": {
+      "date": "2019-02-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 103,
+    "fields": {
+      "maxTemp": "79",
+      "minTemp": "28",
+      "avgTemp": "47.23",
+      "avgWindSpeed": "5.93",
+      "avgPrecipitation": "0.15",
+
+      "date": 103
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 104,
+    "fields": {
+      "date": "2019-03-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 104,
+    "fields": {
+      "maxTemp": "75",
+      "minTemp": "24",
+      "avgTemp": "49.09",
+      "avgWindSpeed": "6.53",
+      "avgPrecipitation": "0.10",
+
+      "date": 104
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 105,
+    "fields": {
+      "date": "2019-04-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 105,
+    "fields": {
+      "maxTemp": "85",
+      "minTemp": "31",
+      "avgTemp": "61.91",
+      "avgWindSpeed": "7.33",
+      "avgPrecipitation": "0.21",
+
+      "date": 105
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 106,
+    "fields": {
+      "date": "2019-05-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 106,
+    "fields": {
+      "maxTemp": "96",
+      "minTemp": "0",
+      "avgTemp": "73.13",
+      "avgWindSpeed": "6.59",
+      "avgPrecipitation": "0.08",
+
+      "date": 106
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 107,
+    "fields": {
+      "date": "2019-06-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 107,
+    "fields": {
+      "maxTemp": "96",
+      "minTemp": "53",
+      "avgTemp": "75.31",
+      "avgWindSpeed": "6.56",
+      "avgPrecipitation": "0.14",
+
+      "date": 107
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 108,
+    "fields": {
+      "date": "2019-07-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 108,
+    "fields": {
+      "maxTemp": "98",
+      "minTemp": "62",
+      "avgTemp": "80.13",
+      "avgWindSpeed": "5.66",
+      "avgPrecipitation": "0.11",
+
+      "date": 108
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 109,
+    "fields": {
+      "date": "2019-08-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 109,
+    "fields": {
+      "maxTemp": "96",
+      "minTemp": "58",
+      "avgTemp": "76.58",
+      "avgWindSpeed": "5.12",
+      "avgPrecipitation": "0.15",
+
+      "date": 109
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 110,
+    "fields": {
+      "date": "2019-09-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 110,
+    "fields": {
+      "maxTemp": "94",
+      "minTemp": "50",
+      "avgTemp": "75.88",
+      "avgWindSpeed": "5.54",
+      "avgPrecipitation": "0.04",
+
+      "date": 110
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 111,
+    "fields": {
+      "date": "2019-10-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 111,
+    "fields": {
+      "maxTemp": "98",
+      "minTemp": "40",
+      "avgTemp": "65.35",
+      "avgWindSpeed": "5.17",
+      "avgPrecipitation": "0.10",
+
+      "date": 111
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 112,
+    "fields": {
+      "date": "2019-11-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 112,
+    "fields": {
+      "maxTemp": "71",
+      "minTemp": "24",
+      "avgTemp": "47.74",
+      "avgWindSpeed": "5.29",
+      "avgPrecipitation": "0.11",
+
+      "date": 112
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 113,
+    "fields": {
+      "date": "2019-12-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 113,
+    "fields": {
+      "maxTemp": "75",
+      "minTemp": "26",
+      "avgTemp": "47.51",
+      "avgWindSpeed": "5.39",
+      "avgPrecipitation": "0.12",
+
+      "date": 113
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 114,
+    "fields": {
+      "date": "2020-01-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 114,
+    "fields": {
+      "maxTemp": "72",
+      "minTemp": "25",
+      "avgTemp": "47.25",
+      "avgWindSpeed": "6.11",
+      "avgPrecipitation": "0.14",
+
+      "date": 114
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 115,
+    "fields": {
+      "date": "2020-02-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 115,
+    "fields": {
+      "maxTemp": "73",
+      "minTemp": "23",
+      "avgTemp": "48.51",
+      "avgWindSpeed": "7.38",
+      "avgPrecipitation": "0.19",
+
+      "date": 115
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 116,
+    "fields": {
+      "date": "2020-03-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 116,
+    "fields": {
+      "maxTemp": "88",
+      "minTemp": "25",
+      "avgTemp": "57.43",
+      "avgWindSpeed": "7.75",
+      "avgPrecipitation": "0.06",
+
+      "date": 116
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 117,
+    "fields": {
+      "date": "2020-04-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 117,
+    "fields": {
+      "maxTemp": "83",
+      "minTemp": "34",
+      "avgTemp": "59.62",
+      "avgWindSpeed": "7.48",
+      "avgPrecipitation": "0.13",
+
+      "date": 117
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 118,
+    "fields": {
+      "date": "2020-05-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 118,
+    "fields": {
+      "maxTemp": "88",
+      "minTemp": "38",
+      "avgTemp": "65.06",
+      "avgWindSpeed": "7.27",
+      "avgPrecipitation": "0.18",
+
+      "date": 118
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 119,
+    "fields": {
+      "date": "2020-06-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 119,
+    "fields": {
+      "maxTemp": "91",
+      "minTemp": "55",
+      "avgTemp": "75.06",
+      "avgWindSpeed": "6.96",
+      "avgPrecipitation": "0.08",
+
+      "date": 119
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 120,
+    "fields": {
+      "date": "2020-07-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 120,
+    "fields": {
+      "maxTemp": "97",
+      "minTemp": "67",
+      "avgTemp": "80.95",
+      "avgWindSpeed": "5.88",
+      "avgPrecipitation": "0.14",
+
+      "date": 120
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 121,
+    "fields": {
+      "date": "2020-08-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 121,
+    "fields": {
+      "maxTemp": "93",
+      "minTemp": "64",
+      "avgTemp": "78.21",
+      "avgWindSpeed": "5.53",
+      "avgPrecipitation": "0.20",
+
+      "date": 121
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 122,
+    "fields": {
+      "date": "2020-09-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 122,
+    "fields": {
+      "maxTemp": "93",
+      "minTemp": "44",
+      "avgTemp": "69.87",
+      "avgWindSpeed": "5.6",
+      "avgPrecipitation": "0.24",
+
+      "date": 122
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 123,
+    "fields": {
+      "date": "2020-10-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 123,
+    "fields": {
+      "maxTemp": "83",
+      "minTemp": "41",
+      "avgTemp": "63.43",
+      "avgWindSpeed": "4.4",
+      "avgPrecipitation": "0.09",
+
+      "date": 123
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 124,
+    "fields": {
+      "date": "2020-11-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 124,
+    "fields": {
+      "maxTemp": "79",
+      "minTemp": "29",
+      "avgTemp": "55.36",
+      "avgWindSpeed": "4.31",
+      "avgPrecipitation": "0.18",
+
+      "date": 124
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 125,
+    "fields": {
+      "date": "2020-12-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 125,
+    "fields": {
+      "maxTemp": "67",
+      "minTemp": "20",
+      "avgTemp": "43.39",
+      "avgWindSpeed": "5.25",
+      "avgPrecipitation": "0.15",
+
+      "date": 125
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 126,
+    "fields": {
+      "date": "2021-01-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 126,
+    "fields": {
+      "maxTemp": "60",
+      "minTemp": "22",
+      "avgTemp": "40.55",
+      "avgWindSpeed": "4.17",
+      "avgPrecipitation": "0.14",
+
+      "date": 126
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 127,
+    "fields": {
+      "date": "2021-02-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 127,
+    "fields": {
+      "maxTemp": "77",
+      "minTemp": "23",
+      "avgTemp": "41.74",
+      "avgWindSpeed": "6.47",
+      "avgPrecipitation": "0.22",
+
+      "date": 127
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 128,
+    "fields": {
+      "date": "2021-03-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 128,
+    "fields": {
+      "maxTemp": "80",
+      "minTemp": "27",
+      "avgTemp": "54.5",
+      "avgWindSpeed": "6.46",
+      "avgPrecipitation": "0.05",
+
+      "date": 128
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 129,
+    "fields": {
+      "date": "2021-04-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 129,
+    "fields": {
+      "maxTemp": "86",
+      "minTemp": "28",
+      "avgTemp": "60.99",
+      "avgWindSpeed": "6.24",
+      "avgPrecipitation": "0.04",
+
+      "date": 129
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 130,
+    "fields": {
+      "date": "2021-05-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 130,
+    "fields": {
+      "maxTemp": "93",
+      "minTemp": "38",
+      "avgTemp": "66.79",
+      "avgWindSpeed": "5.71",
+      "avgPrecipitation": "0.05",
+
+      "date": 130
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 131,
+    "fields": {
+      "date": "2021-06-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 131,
+    "fields": {
+      "maxTemp": "92",
+      "minTemp": "0",
+      "avgTemp": "75.22",
+      "avgWindSpeed": "6.16",
+      "avgPrecipitation": "0.25",
+
+      "date": 131
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 132,
+    "fields": {
+      "date": "2021-07-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 132,
+    "fields": {
+      "maxTemp": "95",
+      "minTemp": "59",
+      "avgTemp": "78.5",
+      "avgWindSpeed": "6.54",
+      "avgPrecipitation": "0.15",
+
+      "date": 132
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 133,
+    "fields": {
+      "date": "2021-08-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 133,
+    "fields": {
+      "maxTemp": "99",
+      "minTemp": "61",
+      "avgTemp": "79.22",
+      "avgWindSpeed": "5",
+      "avgPrecipitation": "0.11",
+
+      "date": 133
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 134,
+    "fields": {
+      "date": "2021-09-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 134,
+    "fields": {
+      "maxTemp": "92",
+      "minTemp": "50",
+      "avgTemp": "72.46",
+      "avgWindSpeed": "5.24",
+      "avgPrecipitation": "0.10",
+
+      "date": 134
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 135,
+    "fields": {
+      "date": "2021-10-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 135,
+    "fields": {
+      "maxTemp": "86",
+      "minTemp": "42",
+      "avgTemp": "65.02",
+      "avgWindSpeed": "5.32",
+      "avgPrecipitation": "0.24",
+
+      "date": 135
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 136,
+    "fields": {
+      "date": "2021-11-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 136,
+    "fields": {
+      "maxTemp": "78",
+      "minTemp": "25",
+      "avgTemp": "48.68",
+      "avgWindSpeed": "4.87",
+      "avgPrecipitation": "0.03",
+
+      "date": 136
+    }
+  },
+  {
+    "model": "website.dateandlocation",
+    "pk": 137,
+    "fields": {
+      "date": "2021-12-01",
+      "latitude": "35.88",
+      "longitude": "78.79",
+      "city": "Morrisville",
+      "state": "NC"
+    }
+  },
+  {
+    "model": "website.climatefactor",
+    "pk": 137,
+    "fields": {
+      "maxTemp": "74",
+      "minTemp": "28",
+      "avgTemp": "52.05",
+      "avgWindSpeed": "5.99",
+      "avgPrecipitation": "0.05",
+
+      "date": 137
+    }
+  }
+]

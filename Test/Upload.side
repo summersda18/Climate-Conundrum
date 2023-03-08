@@ -1,0 +1,238 @@
+{
+  "id": "1a0f62b2-fb4b-416f-99ed-a9d6a8005d20",
+  "version": "2.0",
+  "name": "Upload",
+  "url": "https://tcc-y3farrucxa-ue.a.run.app",
+  "tests": [{
+    "id": "2a59477e-e77f-42a4-9cd8-bf38bf86cde4",
+    "name": "Upload",
+    "commands": [{
+      "id": "705d1677-fb65-4e9a-b315-24abc67ecd73",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "529ba6b9-ec92-4b82-9d4f-47632131e784",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1906x1034",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "d468ef9c-61de-4487-b8fe-b6bfa9b0c606",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Data Source",
+      "targets": [
+        ["linkText=Data Source", "linkText"],
+        ["css=.navbar-nav > .nav-item:nth-child(4) > .nav-link", "css:finder"],
+        ["xpath=//a[contains(text(),'Data Source')]", "xpath:link"],
+        ["xpath=//div[@id='myNavbar']/ul/li[4]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/research/')]", "xpath:href"],
+        ["xpath=//li[4]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Data Source')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "655c8e97-7d69-4059-8720-1d835affc97c",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Upload research",
+      "targets": [
+        ["linkText=Upload research", "linkText"],
+        ["css=.btn-success", "css:finder"],
+        ["xpath=//a[contains(text(),'Upload research')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/research/upload/')]", "xpath:href"],
+        ["xpath=//p/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Upload research')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7239d8bc-dfaf-4daf-b4db-dbf1849bc4c4",
+      "comment": "",
+      "command": "click",
+      "target": "id=id_title",
+      "targets": [
+        ["id=id_title", "id"],
+        ["name=title", "name"],
+        ["css=#id_title", "css:finder"],
+        ["xpath=//input[@id='id_title']", "xpath:attributes"],
+        ["xpath=//div[@id='div_id_title']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "11f4d15c-fb17-4a2d-9188-bc35f03005ad",
+      "comment": "",
+      "command": "type",
+      "target": "id=id_title",
+      "targets": [
+        ["id=id_title", "id"],
+        ["name=title", "name"],
+        ["css=#id_title", "css:finder"],
+        ["xpath=//input[@id='id_title']", "xpath:attributes"],
+        ["xpath=//div[@id='div_id_title']/div/input", "xpath:idRelative"],
+        ["xpath=//div/input", "xpath:position"]
+      ],
+      "value": "John Doe"
+    }, {
+      "id": "838beb0a-9661-4b42-b60d-53ae4bdc55eb",
+      "comment": "",
+      "command": "click",
+      "target": "id=id_author",
+      "targets": [
+        ["id=id_author", "id"],
+        ["name=author", "name"],
+        ["css=#id_author", "css:finder"],
+        ["xpath=//input[@id='id_author']", "xpath:attributes"],
+        ["xpath=//div[@id='div_id_author']/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "340cd129-7d76-429d-9a75-078b3739a6fd",
+      "comment": "",
+      "command": "type",
+      "target": "id=id_author",
+      "targets": [
+        ["id=id_author", "id"],
+        ["name=author", "name"],
+        ["css=#id_author", "css:finder"],
+        ["xpath=//input[@id='id_author']", "xpath:attributes"],
+        ["xpath=//div[@id='div_id_author']/div/input", "xpath:idRelative"],
+        ["xpath=//div[2]/div/input", "xpath:position"]
+      ],
+      "value": "House"
+    }, {
+      "id": "c4c1912c-7310-427a-b2f6-a0614d5040a8",
+      "comment": "",
+      "command": "click",
+      "target": "id=id_file",
+      "targets": [
+        ["id=id_file", "id"],
+        ["name=file", "name"],
+        ["css=#id_file", "css:finder"],
+        ["xpath=//input[@id='id_file']", "xpath:attributes"],
+        ["xpath=//div[@id='div_id_file']/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "888d0121-4035-4efd-9118-14bdb69423ae",
+      "comment": "",
+      "command": "type",
+      "target": "id=id_file",
+      "targets": [
+        ["id=id_file", "id"],
+        ["name=file", "name"],
+        ["css=#id_file", "css:finder"],
+        ["xpath=//input[@id='id_file']", "xpath:attributes"],
+        ["xpath=//div[@id='div_id_file']/div/input", "xpath:idRelative"],
+        ["xpath=//div[3]/div/input", "xpath:position"]
+      ],
+      "value": "C:\\fakepath\\Back yard.png"
+    }, {
+      "id": "326e30fa-6ed7-4b03-a4d3-7cadb0ef9226",
+      "comment": "",
+      "command": "click",
+      "target": "id=id_cover",
+      "targets": [
+        ["id=id_cover", "id"],
+        ["name=cover", "name"],
+        ["css=#id_cover", "css:finder"],
+        ["xpath=//input[@id='id_cover']", "xpath:attributes"],
+        ["xpath=//div[@id='div_id_cover']/div/input", "xpath:idRelative"],
+        ["xpath=//div[4]/div/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "40986900-fb3f-4593-aa23-bbcd41c563db",
+      "comment": "",
+      "command": "type",
+      "target": "id=id_cover",
+      "targets": [
+        ["id=id_cover", "id"],
+        ["name=cover", "name"],
+        ["css=#id_cover", "css:finder"],
+        ["xpath=//input[@id='id_cover']", "xpath:attributes"],
+        ["xpath=//div[@id='div_id_cover']/div/input", "xpath:idRelative"],
+        ["xpath=//div[4]/div/input", "xpath:position"]
+      ],
+      "value": "C:\\fakepath\\Back yard.png"
+    }, {
+      "id": "88143825-ac83-441d-92f2-cc4fab88ff13",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-success",
+      "targets": [
+        ["css=.btn-success", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Upload research')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "129fb3ad-a9de-453b-bd07-715acb7e66fb",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Dowload File",
+      "targets": [
+        ["linkText=Dowload File", "linkText"],
+        ["css=td > .btn", "css:finder"],
+        ["xpath=//a[contains(text(),'Dowload File')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/research/file/Back_yard.png')]", "xpath:href"],
+        ["xpath=//td[4]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Dowload File')]", "xpath:innerText"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win3126",
+      "windowTimeout": 2000
+    }, {
+      "id": "1e980727-f057-4e67-96a8-46d381a49aac",
+      "comment": "",
+      "command": "storeWindowHandle",
+      "target": "root",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "55a31675-04af-49e9-acb0-25132734f2ef",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win3126}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4fdd7fca-2e7c-405e-8af6-e4fee622ca38",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${root}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0b060ef1-3c20-4b40-b4fe-a6e9af59f005",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-danger",
+      "targets": [
+        ["css=.btn-danger", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//form/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Delete')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "e0556bb4-5463-4ee9-94f6-6891a2966be1",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["2a59477e-e77f-42a4-9cd8-bf38bf86cde4"]
+  }],
+  "urls": ["https://tcc-y3farrucxa-ue.a.run.app/"],
+  "plugins": []
+}
